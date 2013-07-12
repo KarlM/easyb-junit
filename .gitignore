@@ -1,8 +1,10 @@
 build/
-lib/
-out/
+reports/
+RemoteSystemsTempFiles/
 .gradle/
 .hg/
+.metadata/
+.settings/
 *.iml
 *.ipr
 *.iws
